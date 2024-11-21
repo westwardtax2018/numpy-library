@@ -1,0 +1,12 @@
+Thermal diffusivity of Stainless Steel 304,,,
+"Data averaged from [Jenkins, R. J., and R. W. Westover. Thermal Diffusivity of Stainless Steel from 20° to 1000° C.",,,
+"Journal of Chemical Engineering Data:  Vol. 7, No. 3, pp. 434-437; 1962.]",,,
+,,,
+T,alpha,T,alpha
+[deg C],[cm**2/s],[K],[m**2/s]
+0,0.0335,273.15,3.35E-06
+200,0.0374,473.15,3.74E-06
+400,0.0409,673.15,4.09E-06
+600,0.0439,873.15,4.39E-06
+800,0.0463,1073.15,4.63E-06
+1000,0.048,1273.15,4.80E-06
